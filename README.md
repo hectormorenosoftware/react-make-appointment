@@ -8,3 +8,5 @@ npm start
 
 To build run
 npm run build
+
+You can see this website through the url below: https://marvelous-otter-1d6efd.netlify.app/#/
